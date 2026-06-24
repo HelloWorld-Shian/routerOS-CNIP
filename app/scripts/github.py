@@ -38,8 +38,6 @@ GAME_ASNS = {
     "Blizzard":         57976,
     "EA":               3456,
     "Ubisoft":          2577,
-    "Microsoft/Xbox":   8075,
-    "Sony/PlayStation": 8075,  # 部分走 MS
 }
 
 MAX_RETRIES = 3
