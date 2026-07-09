@@ -1,4 +1,4 @@
-# Generated 2026-06-13 21:22:36 (China Time)
+# Generated 2026-07-09 22:27:45 (China Time)
 # Total entries: 2040
 /ipv6 firewall address-list remove [find list=CN-IPv6]
 /ipv6 firewall address-list add address=2001:250:2000::/35 list=CN-IPv6
