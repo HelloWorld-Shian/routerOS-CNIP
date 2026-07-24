@@ -1,5 +1,5 @@
-# Generated 2026-07-14 21:04:04 (China Time)
-# Total entries: 8786
+# Generated 2026-07-24 21:15:04 (China Time)
+# Total entries: 8787
 /ip firewall address-list remove [find list=CN-IPv4]
 /ip firewall address-list add address=1.0.1.0/24 list=CN-IPv4
 /ip firewall address-list add address=1.0.2.0/23 list=CN-IPv4
@@ -4528,6 +4528,7 @@
 /ip firewall address-list add address=160.22.246.0/23 list=CN-IPv4
 /ip firewall address-list add address=160.22.58.0/23 list=CN-IPv4
 /ip firewall address-list add address=160.22.82.0/23 list=CN-IPv4
+/ip firewall address-list add address=160.236.148.0/23 list=CN-IPv4
 /ip firewall address-list add address=160.236.78.0/23 list=CN-IPv4
 /ip firewall address-list add address=160.25.10.0/23 list=CN-IPv4
 /ip firewall address-list add address=160.25.12.0/23 list=CN-IPv4
