@@ -1,5 +1,5 @@
-# Generated 2026-10-09 02:06:49 (China Time)
-# Total entries: 216
+# Generated 2026-10-10 01:40:11 (China Time)
+# Total entries: 214
 /ip firewall address-list remove [find list=GAME-IPv4]
 /ip firewall address-list add address=5.42.160.0/22 list=GAME-IPv4
 /ip firewall address-list add address=5.42.164.0/22 list=GAME-IPv4
@@ -126,8 +126,6 @@
 /ip firewall address-list add address=137.221.88.0/24 list=GAME-IPv4
 /ip firewall address-list add address=137.221.89.0/24 list=GAME-IPv4
 /ip firewall address-list add address=137.221.95.0/24 list=GAME-IPv4
-/ip firewall address-list add address=137.221.96.0/22 list=GAME-IPv4
-/ip firewall address-list add address=137.221.100.0/22 list=GAME-IPv4
 /ip firewall address-list add address=137.221.104.0/22 list=GAME-IPv4
 /ip firewall address-list add address=137.221.108.0/24 list=GAME-IPv4
 /ip firewall address-list add address=137.221.109.0/24 list=GAME-IPv4

@@ -1,5 +1,5 @@
-# Generated 2026-10-01 01:09:41 (China Time)
-# Total entries: 2043
+# Generated 2026-10-10 01:40:10 (China Time)
+# Total entries: 2044
 /ipv6 firewall address-list remove [find list=CN-IPv6]
 /ipv6 firewall address-list add address=2001:250:2000::/35 list=CN-IPv6
 /ipv6 firewall address-list add address=2001:250:4000::/34 list=CN-IPv6
@@ -792,6 +792,7 @@
 /ipv6 firewall address-list add address=2402:7820::/32 list=CN-IPv6
 /ipv6 firewall address-list add address=2402:7d00::/32 list=CN-IPv6
 /ipv6 firewall address-list add address=2402:7d80::/32 list=CN-IPv6
+/ipv6 firewall address-list add address=2402:7da0::/32 list=CN-IPv6
 /ipv6 firewall address-list add address=2402:8180::/32 list=CN-IPv6
 /ipv6 firewall address-list add address=2402:8300::/32 list=CN-IPv6
 /ipv6 firewall address-list add address=2402:8380::/32 list=CN-IPv6
