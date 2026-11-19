@@ -1,4 +1,4 @@
-# Generated 2026-11-13 03:16:55 (China Time)
+# Generated 2026-11-20 03:42:53 (China Time)
 # Total entries: 8798
 /ip firewall address-list remove [find list=CN-IPv4]
 /ip firewall address-list add address=1.0.1.0/24 list=CN-IPv4
